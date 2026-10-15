@@ -1,7 +1,7 @@
 /* Shared content defaults + localStorage loader for Mohsin Razak Academy */
 
 const DEFAULTS = {
-  siteName: "Mohsin Razak",
+  siteName: "Mohsin Raza",
   logoMark: "MR",
   heroEyebrow: "Practical Knowledge • Real Results",
   heroTitleLine1: "LEARN WHAT",
@@ -37,7 +37,7 @@ const DEFAULTS = {
       placeholder: "TM"
     }
   ],
-  aboutName: "Mohsin Razak",
+  aboutName: "Mohsin Raza",
   aboutRole: "Creator • Educator • Influencer",
   aboutText1: "I love creating content that helps people grow. My focus is on practical, actionable knowledge that schools rarely teach — skills that actually change how you work, learn and live.",
   aboutText2: "This academy is built so that anyone, from any background, can start learning real-world skills today and apply them immediately.",
